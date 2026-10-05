@@ -2,6 +2,13 @@
   "format": 1,
   "releases": [
     {
+      "tag": "v0.1.2",
+      "version": "0.1.2",
+      "name": "VoiceSnap Pro v0.1.2",
+      "publishedAt": "2026-10-05T22:37:23Z",
+      "notes": "- **Marking a reminder as done now removes it from Reminders.** A one-time reminder you mark as done, in the app or from its notification, leaves the Reminders list right away and its note no longer shows a reminder, instead of waiting under Done. Undo brings it back, and a repeating reminder still moves on to its next time.\n- **Overdue reminders stay in Reminders:** once a reminder's time has passed, its note shows a plain bell and its row in All notes or a folder no longer shows the time. You'll find it in Reminders under Overdue, and the bell's menu still snoozes it or marks it as done.\n- **Delete a recording with a right-click:** right-click a note's recording (the player under its text) and choose Delete Recording…. VoiceSnap Pro asks before it deletes, and the note's text stays.\n"
+    },
+    {
       "tag": "v0.1.1",
       "version": "0.1.1",
       "name": "VoiceSnap Pro v0.1.1",
