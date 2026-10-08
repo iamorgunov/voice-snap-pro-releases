@@ -2,6 +2,13 @@
   "format": 1,
   "releases": [
     {
+      "tag": "v0.1.3",
+      "version": "0.1.3",
+      "name": "VoiceSnap Pro v0.1.3",
+      "publishedAt": "2026-10-08T09:29:38Z",
+      "notes": "- **A simpler free allowance:** 5,000 transcribed words shared by dictation and voice notes, plus 50 manual AI actions. Both are given once per account and never expire. Account settings now show words instead of minutes.\n- **Keep creating notes:** creating, duplicating and restoring notes no longer uses a free-plan note allowance. Automatic titles, tags and voice reminders do not spend your manual AI actions.\n- **One monthly Pro option:** new desktop subscriptions cost $9 USD per month. Existing subscriptions keep their purchased billing terms.\n"
+    },
+    {
       "tag": "v0.1.2",
       "version": "0.1.2",
       "name": "VoiceSnap Pro v0.1.2",
