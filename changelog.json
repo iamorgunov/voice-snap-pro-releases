@@ -2,6 +2,13 @@
   "format": 1,
   "releases": [
     {
+      "tag": "v0.1.4",
+      "version": "0.1.4",
+      "name": "VoiceSnap Pro v0.1.4",
+      "publishedAt": "2026-10-10T20:54:53Z",
+      "notes": "- **Clean up dictation:** dictations and voice notes up to about five minutes long now come back without filler words like “um” and “you know”, repeated words or corrected slips, and with tidier punctuation. Words are only ever removed, never added or reworded. It's on by default and runs through OpenAI like the other AI features; turn it off in Settings → AI.\n"
+    },
+    {
       "tag": "v0.1.3",
       "version": "0.1.3",
       "name": "VoiceSnap Pro v0.1.3",
